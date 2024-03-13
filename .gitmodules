@@ -1,0 +1,3 @@
+[submodule "relaxy-server"]
+	path = relaxy-server
+	url = https://github.com/ArtRetro/relaxy-server.git
