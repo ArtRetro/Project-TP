@@ -18,7 +18,7 @@
 -	Обеспечение возможности регистрации по электронной почте;
 -	Обеспечение возможности авторизации пользователя.
 ## Сведения о проекте
-- [Miro]() - карта пользовательских историй.
+- [Miro](https://miro.com/welcomeonboard/Rnl5WE1ZSkZ2U3dmN1BnZzBObExlNnZubjdwOExQUlhKSEg5TmdTZTNlOExqdk1zRnpMVk1vOW1VdldKVlRoR3wzNDU4NzY0NTY1NDM5Nzc4OTE3fDI=?share_link_id=627332040765) - карта пользовательских историй.
 ### Средства реализации:
 Для реализации программно-аппаратной части:
 - Язык программирования Python;
