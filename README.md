@@ -18,21 +18,21 @@
 -	Обеспечение возможности регистрации по электронной почте;
 -	Обеспечение возможности авторизации пользователя.
 ## Сведения о проекте
-- [Miro]() - карта пользовательских историй
+- [Miro]() - карта пользовательских историй.
 ### Средства реализации:
 Для реализации программно-аппаратной части:
-- Язык программирования Python
-- Фреймворк Django
-- СУБД MySQL
+- Язык программирования Python;
+- Фреймворк Django;
+- СУБД MySQL.
 
 Для реализации клиентской части: 
-- Язык программирования Dart
-- Фреймворк Flutter
+- Язык программирования Dart;
+- Фреймворк Flutter.
 ## Документация проекта 
-- [Техническое задание](https://github.com/ArtRetro/Project-TP/tree/master/ТЗ)
-- [Оформительские задачи](https://github.com/ArtRetro/Project-TP/tree/master/Оформительские%20задачи)
+- [Техническое задание](https://github.com/ArtRetro/Project-TP/tree/master/ТЗ);
+- [Оформительские задачи](https://github.com/ArtRetro/Project-TP/tree/master/Оформительские%20задачи).
 ## Презентация проекта 
-- [Презентация](https://github.com/ArtRetro/Project-TP/tree/master/Презентация)
-- [Видео к презентации](https://github.com/ArtRetro/Project-TP/tree/master/Видео)
+- [Презентация](https://github.com/ArtRetro/Project-TP/tree/master/Презентация);
+- [Видео к презентации](https://github.com/ArtRetro/Project-TP/tree/master/Видео).
 
 
